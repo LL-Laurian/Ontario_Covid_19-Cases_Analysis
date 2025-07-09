@@ -1,4 +1,4 @@
-# Ontario_Covid_19-Cases_Analysis# Ontario_Covid_19-Cases_Analysis
+# Ontario_Covid_19-Cases_Analysis
 
 This report analyzes COVID-19 case data, vaccination uptake, and demographic patterns across Ontario to identify key trends and assess the impact of public health measures at both provincial and municipal levels.
 
